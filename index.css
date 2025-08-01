@@ -3,7 +3,7 @@
   --dark-text: #212529;
   --light-text: #6C757D;
   --background-color: #FFFFFF;
-  --font-family: 'Inter', sans-serif;
+  --font-family: 'Nunito Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 body {
